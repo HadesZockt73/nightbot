@@ -1,1 +1,5 @@
-Da gab es viele Dinos Und die Waren hungrig
+"employees":[
+  {"firstName":"John", "lastName":"Doe"},
+  {"firstName":"Anna", "lastName":"Smith"},
+  {"firstName":"Peter", "lastName":"Jones"}
+]
