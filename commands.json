@@ -1,5 +1,2 @@
-Sesam
-Korn
-Frucht
-Besen
-Affe
+let hello_world = {"Hello":"World"};
+alert(hello_world.Hello);
